@@ -1,0 +1,4 @@
+{
+    "access": ["files", "files_root", "contacts", "os", "gsm", "gui", "hardware", "time", "web", "web_paxo"],
+    "name": "Compteur"
+}
